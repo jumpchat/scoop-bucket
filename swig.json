@@ -2,7 +2,7 @@
     "homepage": "http://www.swig.org/",
     "license": "https://opensource.org/licenses/GPL-3.0",
     "version": "3.0.12",
-    "url": "https://newcontinuum.dl.sourceforge.net/project/swig/swigwin/swigwin-3.0.12/swigwin-3.0.12.zip",
+    "url": "https://osdn.net/frs/g_redir.php?m=netix&f=%2Fswig%2Fswigwin%2Fswigwin-3.0.12%2Fswigwin-3.0.12.zip#/2Fswigwin-3.0.12.zip",
     "hash": "21ce6cbe297a56b697ef6e7e92a83e75ca41dedc87e48282ab444591986c35f5",
     "bin": "swigwin-3.0.12/swig.exe"
 }
